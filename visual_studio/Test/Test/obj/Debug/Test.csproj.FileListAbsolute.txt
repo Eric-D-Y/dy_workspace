@@ -1,0 +1,6 @@
+E:\workspace\visual_studio\Test\Test\bin\Debug\Test.exe.config
+E:\workspace\visual_studio\Test\Test\bin\Debug\Test.exe
+E:\workspace\visual_studio\Test\Test\bin\Debug\Test.pdb
+E:\workspace\visual_studio\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+E:\workspace\visual_studio\Test\Test\obj\Debug\Test.exe
+E:\workspace\visual_studio\Test\Test\obj\Debug\Test.pdb
